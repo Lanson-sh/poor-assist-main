@@ -1,4 +1,4 @@
-# Java-民政救助系统源代码-毕业设计-快速开发模版-SpringBoot2.X-VUE-Antd-MyBatis-Shiro 微信号:Singer_833691
+# Java-民政救助系统源代码-毕业设计-快速开发模版-SpringBoot2.X-VUE-Antd-MyBatis-Shiro
 
 #### 介绍
 
@@ -7,9 +7,9 @@
 #### 系统概要图
 ![系统概要图](https://images.gitee.com/uploads/images/2021/1026/144720_f958b282_1808544.png "屏幕截图.png")
 
-#### 联系作者
-
- **见文末** 
+### 联系作者
+#### 微信号: SkywalkingPro
+#### 见文末微信二维码
 
 #### 演示地址
 ```
@@ -21,7 +21,7 @@
 
 #### 软件架构说明
 
-#### 前端技术架构
+### 前端技术架构
 
 1. Antd-VUE
 2. 页面,按钮级别权限控制。
@@ -33,7 +33,7 @@
 8. VUE路由，过滤器，自定义指令。
 9. 代码简洁，符合编码规范。
 
-#### 后端技术架构
+### 后端技术架构
 
 1. SpringBoot2.x
 2. Shiro权限框架
@@ -214,22 +214,23 @@
 #### 安装教程
 
 #### 后端安装方法
+
+```
 1.  mvn clean package
 2.  tar -zxvf poverty-help-api.gz (解压tar包)
 3.  cd poverty-help-api
 5.  sh /sbin/startup.sh dev
+```
 
 #### 前端安装方法
+
+```
 1.  yarn install (安装node_moudle)
 2.  yarn start (启动)
 3.  yarn build:pro (构建生产包)
+```
+
+
 #### 使用说明
 
 见上面安装方法
-
-#### 参与贡献
-1.  Fork 本仓库
-2.  新建 Feature_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
