@@ -45,6 +45,17 @@
 8. 代码生成器。
 9. orika传输对象映射器。
 
+#### 清晰的注释
+**项目的每个类和方法，都具备清晰的注释，适合阅读，注释如下图：**
+
+**1. 类注释**
+
+![类注释](https://www.skywalking.pro/download/images/meta/WX20230206-092916@2x.png "类注释")
+
+**2. 数据库字段注释注释**
+
+![类注释](https://www.skywalking.pro/download/images/meta/WX20230206-093511@2x.png "类注释")
+
 #### 系统截图展示
 
 1. 系统登陆注册
