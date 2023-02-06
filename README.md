@@ -7,13 +7,15 @@
 #### 系统概要图
 ![系统概要图](https://images.gitee.com/uploads/images/2021/1026/144720_f958b282_1808544.png "屏幕截图.png")
 
-### 联系作者
-#### 微信号: SkywalkingPro
-#### 见文末微信二维码
+####  **联系作者** 
+
+ **这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者。 17381852768 微信同号**  
+
+![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png "微信二维码-1.png")
 
 #### 演示地址
 ```
-登录地址: https://www.skywalking.pro/poverty-help
+登录地址: https://www.skywalking.pro/poor-assist
 登录账号: admin
 登录密码: 123456
 ```
@@ -206,7 +208,7 @@
 
 #### 演示地址
 ```
-登录地址: https://www.skywalking.pro/poverty-help
+登录地址: https://www.skywalking.pro/poor-assist
 登录账号: admin
 登录密码: 123456
 ```
@@ -218,9 +220,6 @@
 
 ![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png "微信二维码-1.png")
 
-**这是作者的技术技术交流群二维码，如已过期请扫码联系作者拉群** 
-
-![输入图片说明](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4.png "%BE%.png")
 
 #### 安装教程
 
@@ -228,8 +227,8 @@
 
 ```
 1.  mvn clean package
-2.  tar -zxvf poverty-help-api.gz (解压tar包)
-3.  cd poverty-help-api
+2.  tar -zxvf poor-assist-api.gz (解压tar包)
+3.  cd poor-assist-api
 5.  sh /sbin/startup.sh dev
 ```
 
