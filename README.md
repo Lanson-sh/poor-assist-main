@@ -60,11 +60,9 @@
 
 #### 系统截图展示
 
-1. 系统登陆注册
+1. 系统登陆
 - 登陆界面
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/141525_50700f2b_1808544.png "屏幕截图.png")
-- 用户注册
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/141544_5f925b34_1808544.png "屏幕截图.png")
 2. 系统管理模块
 - 系统主页
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/141603_c8c573c9_1808544.png "屏幕截图.png")
@@ -124,7 +122,7 @@
 ![后端代码](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%90%8E%E7%AB%AF%E4%BB%A3%E7%A0%81%E6%88%AA%E5%9B%BE%E5%B1%95%E7%A4%BA.png "后端代码.png")
 
 #### 系统功能模块概要
-+ 系统登陆/注册
++ 系统登陆
 + 系统主页
   - 系统主页折线图统计
     * 系统主页折线图统计
