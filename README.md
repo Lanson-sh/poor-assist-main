@@ -1,6 +1,6 @@
-[# Java-SpringBoot2.X-VUE-Antd-MyBatis-Shiro-扶贫救助系统源代码-毕业设计
+# Java-SpringBoot2.X-VUE-Antd-MyBatis-Shiro-扶贫救助系统源代码-毕业设计
 
-![登陆界面](https://skywalking.pro/download/images/poor-assist/WX20230912-094519@2x.png "登陆界面.png")
+![登陆界面](https://skywalking.pro/download/images/poor-assist/WX20230912-135714@2x.png "登陆界面.png")
 
 #### 介绍
 
@@ -67,7 +67,7 @@
 1. 系统登陆
 
 - 登陆界面
-![登陆界面](https://skywalking.pro/download/images/poor-assist/WX20230912-094519@2x.png "登陆界面.png")
+![登陆界面](https://skywalking.pro/download/images/poor-assist/WX20230912-135714@2x.png "登陆界面.png")
 
 2. 系统管理模块
 - 系统主页
@@ -244,4 +244,3 @@
 #### 使用说明
 
 见上面安装方法
-](https://skywalking.pro/download/images/poor-assist/WX20230912-135714@2x.png)https://skywalking.pro/download/images/poor-assist/WX20230912-135714@2x.png
