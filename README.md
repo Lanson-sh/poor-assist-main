@@ -64,64 +64,69 @@
 
 1. 系统登陆
 - 登陆界面
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/141525_50700f2b_1808544.png "屏幕截图.png")
+![登陆界面](https://skywalking.pro/download/images/poor-assist/WX20230912-094519@2x.png "登陆界面.png")
+
 2. 系统管理模块
 - 系统主页
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/141603_c8c573c9_1808544.png "屏幕截图.png")
+![系统主页](https://skywalking.pro/download/images/poor-assist/WX20230912-094758@2x.png "系统主页.png")
+![系统主页](https://skywalking.pro/download/images/poor-assist/WX20230912-095040@2x.png   "系统主页.png")
+
 - 菜单管理
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0407/144745_f1bfae94_1808544.png "菜单管理.png")
+![菜单管理](https://skywalking.pro/download/images/poor-assist/WX20230912-095128@2x.png    "系统主页.png")
 
 - 角色管理
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/141623_8ac60fbb_1808544.png "屏幕截图.png")
+![角色管理](https://skywalking.pro/download/images/poor-assist/WX20230912-095224@2x.png     "角色管理.png")
 
 - 系统用户管理
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/141636_4cac9cdd_1808544.png "屏幕截图.png")
+![系统用户管理](https://skywalking.pro/download/images/poor-assist/WX20230912-095321@2x.png     "系统用户管理.png")
 
 3. 系统监控模块
 
 - 系统日志
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/141732_29a59d45_1808544.png "屏幕截图.png")
+![系统日志](https://skywalking.pro/download/images/poor-assist/WX20230912-095415@2x.png  "系统日志.png")
+
 - 系统监控-服务器
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/141756_0d3264f9_1808544.png "屏幕截图.png")
+![系统监控-服务器](https://skywalking.pro/download/images/poor-assist/WX20230912-095415@2x.png  "系统日志.png")
+
 - 系统监控-JVM
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/141809_99c2f04c_1808544.png "屏幕截图.png")
-- 系统日志
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/141828_92e7abd6_1808544.png "屏幕截图.png")
+![系统监控-JVM](https://skywalking.pro/download/images/poor-assist/WX20230912-095800@2x.png   "系统监控-JVM.png")
 
 - 请求追踪
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0407/145038_8c739825_1808544.png "请求追踪.png")
+![请求追踪](https://skywalking.pro/download/images/poor-assist/WX20230912-095902@2x.png   "请求追踪.png")
 
 4. 扶贫救助金模块
 - 救助金列表
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/141918_c41002e1_1808544.png "屏幕截图.png")
+![救助金列表](https://skywalking.pro/download/images/poor-assist/WX20230912-095950@2x.png   "救助金列表.png")
+
 - 申请列表
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/141937_8e8f4551_1808544.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/141944_cd76ec8d_1808544.png "屏幕截图.png")
+![申请列表](https://skywalking.pro/download/images/poor-assist/WX20230912-100037@2x.png    "申请列表.png")
+
 - 意见反馈
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/142049_c188315b_1808544.png "屏幕截图.png")
+![意见反馈](https://skywalking.pro/download/images/poor-assist/WX20230912-100215@2x.png    "意见反馈.png")
 
 5. 扶贫项目模块
+
 - 项目列表
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/142312_4c7106c6_1808544.png "屏幕截图.png")
+![项目列表](https://skywalking.pro/download/images/poor-assist/WX20230912-100303@2x.png    "项目列表.png")
+
 - 反馈列表
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/142322_b39c5c68_1808544.png "屏幕截图.png")
+![反馈列表](https://skywalking.pro/download/images/poor-assist/WX20230912-100349@2x.png    "反馈列表.png")
+
 - 申请列表
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/142341_877e75f5_1808544.png "屏幕截图.png")
+![申请列表](https://skywalking.pro/download/images/poor-assist/WX20230912-100500@2x.png    "申请列表.png")
+
 6. 建档立卡模块
 - 建档立卡
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/142823_f89ed599_1808544.png "屏幕截图.png")
+![建档立卡](https://skywalking.pro/download/images/poor-assist/WX20230912-101834@2x.png    "建档立卡.png")
+
+![建档立卡详情](https://skywalking.pro/download/images/poor-assist/WX20230912-101906@2x.png    "建档立卡详情.png")
+
 7. 追踪管理模块
-- 项目列表
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/142901_f19f3b29_1808544.png "屏幕截图.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1026/142912_c53dd966_1808544.png "屏幕截图.png")
 
-#### 项目代码展示
+- 追踪管理
+![追踪管理](https://skywalking.pro/download/images/poor-assist/WX20230912-102010@2x.png    "追踪管理.png")
 
-1. 前端VUE代码截图展示
-![前端代码](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%89%8D%E7%AB%AFVUE%E4%BB%A3%E7%A0%81%E6%88%AA%E5%9B%BE.png "前端代码.png")
-
-2. 后端Java代码截图展示
-![后端代码](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%90%8E%E7%AB%AF%E4%BB%A3%E7%A0%81%E6%88%AA%E5%9B%BE%E5%B1%95%E7%A4%BA.png "后端代码.png")
+![追踪管理详情](https://skywalking.pro/download/images/poor-assist/WX20230912-103037@2x.png    "追踪管理详情.png")
 
 #### 系统功能模块概要
 + 系统登陆
@@ -241,7 +246,6 @@
 2.  yarn start (启动)
 3.  yarn build:pro (构建生产包)
 ```
-
 
 #### 使用说明
 
