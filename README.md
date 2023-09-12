@@ -5,13 +5,15 @@
  **SpringBoot2.X VUE2.6 Antd1.7.2  TkMyBatis Shiro1.5.0 Java1.8 管理系统 JVM 权限设计 可作为毕业设计和快速开发 民政救助系统源代码** 
 
 #### 系统概要图
-![系统概要图](https://images.gitee.com/uploads/images/2021/1026/144720_f958b282_1808544.png "屏幕截图.png")
+![系统概要图](https://skywalking.pro/download/images/poor-assist/WechatIMG498.jpg  "屏系统概要图.png")
 
 ####  **联系作者** 
 
- **这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者。 17381852768 微信同号**  
+![联系作者](https://skywalking.pro/download/platform/main-platform.png "联系作者.png")
 
-![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png "微信二维码-1.png")
+**这是作者的微信二维码，如需本项目源代码，可扫码或者VX:SkywalkingPro联系作者。**  
+
+![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
 
 #### 演示地址
 ```
@@ -214,9 +216,11 @@
 
 ####  **联系作者** 
 
- **这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者。 17381852768 微信同号**  
+![联系作者](https://skywalking.pro/download/platform/main-platform.png "联系作者.png")
 
-![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png "微信二维码-1.png")
+**这是作者的微信二维码，如需本项目源代码，可扫码或者VX:SkywalkingPro联系作者。**  
+
+![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
 
 
 #### 安装教程
