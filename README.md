@@ -1,4 +1,4 @@
-# Java-SpringBoot2.X-VUE-Antd-MyBatis-Shiro-扶贫救助系统源代码-毕业设计
+# 基于Java-SpringBoot2.X-VUE-Antd-MyBatis-Shiro-的扶贫救助系统源代码-毕业设计
 
 ![登陆界面](https://skywalking.pro/download/images/poor-assist/WX20230912-135714@2x.png "登陆界面.png")
 
